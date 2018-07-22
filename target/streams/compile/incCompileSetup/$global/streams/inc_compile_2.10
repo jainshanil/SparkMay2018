@@ -1,0 +1,716 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+26 items
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\Order_items$.class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\Order_items.class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\Orders$.class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\Orders.class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TopNProducts.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TopNProducts$.class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TopNProducts.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TopNProducts.class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotalRevenue$$anonfun$1.class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotalRevenue$$anonfun$2.class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotalRevenue$$typecreator1$1.class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotalRevenue$$typecreator2$1.class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotalRevenue$.class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotalRevenue.class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotRevenueDFSprkSql$$anonfun$1.class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotRevenueDFSprkSql$$anonfun$2.class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotRevenueDFSprkSql$$typecreator1$1.class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotRevenueDFSprkSql$$typecreator2$1.class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotRevenueDFSprkSql$.class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotRevenueDFSprkSql.class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotRevPerProdPerDay$.class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotRevPerProdPerDay.class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\SparkDemo\WC$$anonfun$1.class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\SparkDemo\WC$$anonfun$2.class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\SparkDemo\WC$$anonfun$3.class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\SparkDemo\WC$$anonfun$main$1.class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\SparkDemo\WC$.class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\SparkDemo\WC.class
+binary dependencies:
+31 items
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> C:\Program Files\Java\jdk1.8.0_141\jre\lib\rt.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> C:\Users\Shanil\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.5.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> C:\Program Files\Java\jdk1.8.0_141\jre\lib\rt.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> C:\Users\Shanil\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.5.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TopNProducts.scala -> C:\Program Files\Java\jdk1.8.0_141\jre\lib\rt.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TopNProducts.scala -> C:\Users\Shanil\.ivy2\cache\org.apache.spark\spark-hive_2.10\jars\spark-hive_2.10-1.6.2.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> C:\Program Files\Java\jdk1.8.0_141\jre\lib\rt.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> C:\Users\Shanil\.ivy2\cache\com.typesafe\config\bundles\config-1.3.2.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> C:\Users\Shanil\.ivy2\cache\org.apache.hadoop\hadoop-common\jars\hadoop-common-2.2.0.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> C:\Users\Shanil\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.6.2.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> C:\Users\Shanil\.ivy2\cache\org.apache.spark\spark-sql_2.10\jars\spark-sql_2.10-1.6.2.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> C:\Users\Shanil\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.5.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> C:\Users\Shanil\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.10.5.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> C:\Program Files\Java\jdk1.8.0_141\jre\lib\rt.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> C:\Users\Shanil\.ivy2\cache\com.typesafe\config\bundles\config-1.3.2.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> C:\Users\Shanil\.ivy2\cache\org.apache.hadoop\hadoop-common\jars\hadoop-common-2.2.0.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> C:\Users\Shanil\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.6.2.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> C:\Users\Shanil\.ivy2\cache\org.apache.spark\spark-sql_2.10\jars\spark-sql_2.10-1.6.2.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> C:\Users\Shanil\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.5.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> C:\Users\Shanil\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.10.5.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> C:\Program Files\Java\jdk1.8.0_141\jre\lib\rt.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> C:\Users\Shanil\.ivy2\cache\com.typesafe\config\bundles\config-1.3.2.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> C:\Users\Shanil\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.6.2.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> C:\Users\Shanil\.ivy2\cache\org.apache.spark\spark-hive_2.10\jars\spark-hive_2.10-1.6.2.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> C:\Users\Shanil\.ivy2\cache\org.apache.spark\spark-sql_2.10\jars\spark-sql_2.10-1.6.2.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> C:\Users\Shanil\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.5.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> C:\Program Files\Java\jdk1.8.0_141\jre\lib\rt.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> C:\Users\Shanil\.ivy2\cache\com.typesafe\config\bundles\config-1.3.2.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> C:\Users\Shanil\.ivy2\cache\org.apache.hadoop\hadoop-common\jars\hadoop-common-2.2.0.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> C:\Users\Shanil\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.6.2.jar
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> C:\Users\Shanil\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.5.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+4 items
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+26 items
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> DataFrames.Order_items
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> DataFrames.Order_items$
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> DataFrames.Orders
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> DataFrames.Orders$
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TopNProducts.scala -> DataFrames.TopNProducts
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TopNProducts.scala -> DataFrames.TopNProducts$
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> DataFrames.TotalRevenue
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> DataFrames.TotalRevenue$
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> DataFrames.TotalRevenue$$anonfun$1
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> DataFrames.TotalRevenue$$anonfun$2
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> DataFrames.TotalRevenue$$typecreator1$1
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> DataFrames.TotalRevenue$$typecreator2$1
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> DataFrames.TotRevenueDFSprkSql
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> DataFrames.TotRevenueDFSprkSql$
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> DataFrames.TotRevenueDFSprkSql$$anonfun$1
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> DataFrames.TotRevenueDFSprkSql$$anonfun$2
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> DataFrames.TotRevenueDFSprkSql$$typecreator1$1
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> DataFrames.TotRevenueDFSprkSql$$typecreator2$1
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> DataFrames.TotRevPerProdPerDay
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> DataFrames.TotRevPerProdPerDay$
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> SparkDemo.WC
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> SparkDemo.WC$
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> SparkDemo.WC$$anonfun$1
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> SparkDemo.WC$$anonfun$2
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> SparkDemo.WC$$anonfun$3
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> SparkDemo.WC$$anonfun$main$1
+used names:
+476 items
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> &&
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> <init>
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> ==
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> A
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> AbstractFunction6
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> Any
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> AnyRef
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> Boolean
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> DataFrames
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> Float
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> IndexOutOfBoundsException
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> Int
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> Iterator
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> None
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> Nothing
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> Object
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> Order_items
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> Predef
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> Product
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> ScalaRunTime
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> Serializable
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> Some
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> Statics
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> String
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> T
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> T0
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> T1
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> T2
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> T3
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> T4
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> T5
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> T6
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> Tuple6
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> _toString
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> asInstanceOf
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> eq
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> finalizeHash
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> floatHash
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> isInstanceOf
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> mix
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> order_item_id
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> order_item_order_id
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> order_item_price
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> order_item_product_id
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> order_item_quantity
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> order_item_subtotal
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> package
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> runtime
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> scala
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> toString
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> typedProductIterator
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> ||
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> &&
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> <init>
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> ==
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> A
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> AbstractFunction4
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> Any
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> AnyRef
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> Boolean
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> DataFrames
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> IndexOutOfBoundsException
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> Int
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> Iterator
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> None
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> Nothing
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> Object
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> Orders
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> Predef
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> Product
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> ScalaRunTime
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> Serializable
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> Some
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> Statics
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> String
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> T
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> T0
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> T1
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> T2
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> T3
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> T4
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> Tuple4
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> _toString
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> anyHash
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> asInstanceOf
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> eq
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> finalizeHash
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> isInstanceOf
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> mix
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> order_customer_id
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> order_date
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> order_id
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> order_status
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> package
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> runtime
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> scala
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> toString
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> typedProductIterator
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> ||
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TopNProducts.scala -> <init>
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TopNProducts.scala -> AnyRef
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TopNProducts.scala -> DataFrames
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TopNProducts.scala -> HiveContext
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TopNProducts.scala -> Object
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TopNProducts.scala -> TopNProducts
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TopNProducts.scala -> apache
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TopNProducts.scala -> hive
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TopNProducts.scala -> org
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TopNProducts.scala -> scala
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TopNProducts.scala -> spark
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TopNProducts.scala -> sql
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> $m
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> $m$untyped
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> $typecreator1
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> $typecreator2
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> $u
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> +
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> <init>
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> <repeated>
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> ===
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> ?0
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> A
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> Any
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> AnyRef
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> Array
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> Boolean
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> Class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> ClassLoader
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> ClassSymbol
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> ClassTag
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> Column
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> Config
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> ConfigFactory
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> Configuration
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> DataFrame
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> DataFrameHolder
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> DataFrames
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> FileSystem
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> Float
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> Function1
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> GroupedData
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> Int
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> JavaUniverse
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> Mirror
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> Nothing
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> Object
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> Order_items
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> Orders
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> Path
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> Predef
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> Product
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> RDD
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> SQLContext
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> Singleton
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> SparkConf
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> SparkContext
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> String
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> StringOps
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> T
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> T0
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> TotalRevenue
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> Type
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> TypeCreator
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> TypeSymbol
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> TypeTag
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> U
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> Unit
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> Universe
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> _$6
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> a
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> agg
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> apache
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> apply
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> args
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> arr
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> asInstanceOf
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> asType
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> augmentString
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> com
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> conf
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> config
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> delete
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> exists
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> filter
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> fs
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> functions
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> get
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> getClass
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> getClassLoader
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> getConfig
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> getString
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> groupBy
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> hadoop
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> hadoopConfiguration
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> implicits
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> inputBasePath
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> join
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> load
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> map
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> materializeClassTag
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> materializeTypeTag
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> ordDFfiltered
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> ord_agg
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> ord_grp
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> ord_ordItm_join
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> orderItmDF
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> ordersDF
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> org
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> outputPath
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> package
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> println
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> props
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> rdd
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> rddToDataFrameHolder
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> rec
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> reflect
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> runtime
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> runtimeMirror
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> saveAsTextFile
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> sc
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> scala
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> set
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> setAppName
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> setConf
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> setMaster
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> sort
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> spark
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> split
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> sql
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> sqlContext
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> staticClass
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> sum
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> textFile
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> toDF
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> toFloat
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> toInt
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> toTypeConstructor
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> typesafe
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> unary_!
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> universe
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> ||
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> $m
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> $m$untyped
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> $typecreator1
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> $typecreator2
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> $u
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> +
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> <init>
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> ?0
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> A
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> Any
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> AnyRef
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> Array
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> Boolean
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> Class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> ClassLoader
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> ClassSymbol
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> ClassTag
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> Config
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> ConfigFactory
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> Configuration
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> DataFrame
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> DataFrameHolder
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> DataFrames
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> FileSystem
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> Float
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> Function1
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> Int
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> JavaUniverse
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> Mirror
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> Nothing
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> Object
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> Order_items
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> Orders
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> Path
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> Predef
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> Product
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> RDD
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> SQLContext
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> Singleton
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> SparkConf
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> SparkContext
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> String
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> StringOps
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> T
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> T0
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> TotRevenueDFSprkSql
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> Type
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> TypeCreator
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> TypeSymbol
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> TypeTag
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> U
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> Unit
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> Universe
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> _$6
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> apache
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> apply
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> args
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> arr
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> asInstanceOf
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> asType
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> augmentString
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> com
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> conf
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> config
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> delete
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> exists
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> fs
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> functions
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> get
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> getClass
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> getClassLoader
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> getConfig
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> getString
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> hadoop
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> hadoopConfiguration
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> implicits
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> inputBasePath
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> load
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> map
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> materializeClassTag
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> materializeTypeTag
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> order_itmDF
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> ordersDF
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> org
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> outputPath
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> package
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> println
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> props
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> rdd
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> rddToDataFrameHolder
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> rec
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> reflect
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> registerTempTable
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> runtime
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> runtimeMirror
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> saveAsTextFile
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> sc
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> scala
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> set
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> setAppName
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> setConf
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> setMaster
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> spark
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> split
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> sql
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> sqlContext
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> staticClass
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> textFile
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> toDF
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> toFloat
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> toInt
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> toTypeConstructor
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> totRevPerDay
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> typesafe
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> unary_!
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> universe
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> ||
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> <init>
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> AnyRef
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> Array
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> Config
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> ConfigFactory
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> DataFrame
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> DataFrames
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> HiveContext
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> Object
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> Predef
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> SparkConf
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> SparkContext
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> String
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> TotRevPerProdPerDay
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> Unit
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> apache
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> com
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> conf
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> config
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> hive
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> load
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> org
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> sc
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> scala
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> set
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> setAppName
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> setConf
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> spark
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> sql
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> sqlContext
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> totalRevDF
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> typesafe
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> +
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> <init>
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> Any
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> AnyRef
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> Array
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> ArrayOps
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> Boolean
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> Class
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> ClassTag
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> Config
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> ConfigFactory
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> Configuration
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> FileSystem
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> Function1
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> Function2
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> Int
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> K
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> Nothing
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> Object
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> Ordering
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> PairRDDFunctions
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> Path
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> Predef
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> RDD
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> SparkConf
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> SparkContext
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> SparkDemo
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> String
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> T
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> T1
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> T2
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> TraversableOnce
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> Tuple2
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> U
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> Unit
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> V
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> WC
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> _$6
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> _1
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> _2
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> apache
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> apply
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> args
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> com
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> conf
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> config
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> delete
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> envProps
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> exists
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> flatMap
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> fs
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> get
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> getConfig
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> getString
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> hadoop
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> hadoopConfiguration
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> inputPath
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> line
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> lines
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> load
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> map
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> materializeClassTag
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> math
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> org
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> outputPath
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> package
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> println
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> props
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> rdd
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> rddToPairRDDFunctions
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> rec
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> reduceByKey
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> refArrayOps
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> saveAsTextFile
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> sc
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> scala
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> set
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> setAppName
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> setMaster
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> spark
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> split
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> textFile
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> typesafe
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> unary_!
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> word
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> word_count
+product stamps:
+26 items
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\Order_items$.class -> lastModified(1531026514833)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\Order_items.class -> lastModified(1531026514791)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\Orders$.class -> lastModified(1531026514921)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\Orders.class -> lastModified(1531026514888)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TopNProducts$.class -> lastModified(1531797161365)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TopNProducts.class -> lastModified(1531797161265)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotalRevenue$$anonfun$1.class -> lastModified(1531107033571)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotalRevenue$$anonfun$2.class -> lastModified(1531107033603)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotalRevenue$$typecreator1$1.class -> lastModified(1531107033623)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotalRevenue$$typecreator2$1.class -> lastModified(1531107033655)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotalRevenue$.class -> lastModified(1531107033535)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotalRevenue.class -> lastModified(1531107033427)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotRevenueDFSprkSql$$anonfun$1.class -> lastModified(1531107033187)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotRevenueDFSprkSql$$anonfun$2.class -> lastModified(1531107033303)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotRevenueDFSprkSql$$typecreator1$1.class -> lastModified(1531107033347)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotRevenueDFSprkSql$$typecreator2$1.class -> lastModified(1531107033383)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotRevenueDFSprkSql$.class -> lastModified(1531107033055)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotRevenueDFSprkSql.class -> lastModified(1531107032839)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotRevPerProdPerDay$.class -> lastModified(1531800301673)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\DataFrames\TotRevPerProdPerDay.class -> lastModified(1531800301479)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\SparkDemo\WC$$anonfun$1.class -> lastModified(1531026515148)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\SparkDemo\WC$$anonfun$2.class -> lastModified(1531026515162)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\SparkDemo\WC$$anonfun$3.class -> lastModified(1531026515186)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\SparkDemo\WC$$anonfun$main$1.class -> lastModified(1531026515199)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\SparkDemo\WC$.class -> lastModified(1531026515134)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\target\scala-2.10\classes\SparkDemo\WC.class -> lastModified(1531026515115)
+source stamps:
+7 items
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> hash(3d9ebbd43d1076906bc277524765d9fab4ff4bc1)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> hash(e6c82f45a4cc36767cfc86169bfa4dd685b43fdd)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TopNProducts.scala -> hash(62c9d125c5983b0fa43f15eebf9ef015d31f9afd)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> hash(3077e3afdd23cfd9d78d8efc6fd99194b3d5ecc2)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> hash(c6543f9e64d2a246e78cd0f36a0187a62ed6f6cd)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> hash(25c2670b60dc672223debc8810e7c2a1bbeab04b)
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> hash(690ba05dc8628315636d4feb3869f8be321d13f4)
+binary stamps:
+8 items
+C:\Program Files\Java\jdk1.8.0_141\jre\lib\rt.jar -> lastModified(1500784103097)
+C:\Users\Shanil\.ivy2\cache\com.typesafe\config\bundles\config-1.3.2.jar -> lastModified(1507298535000)
+C:\Users\Shanil\.ivy2\cache\org.apache.hadoop\hadoop-common\jars\hadoop-common-2.2.0.jar -> lastModified(1381127427000)
+C:\Users\Shanil\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.6.2.jar -> lastModified(1466377219000)
+C:\Users\Shanil\.ivy2\cache\org.apache.spark\spark-hive_2.10\jars\spark-hive_2.10-1.6.2.jar -> lastModified(1466377121000)
+C:\Users\Shanil\.ivy2\cache\org.apache.spark\spark-sql_2.10\jars\spark-sql_2.10-1.6.2.jar -> lastModified(1466377396000)
+C:\Users\Shanil\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.5.jar -> lastModified(1425002069000)
+C:\Users\Shanil\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.10.5.jar -> lastModified(1425002084000)
+class names:
+8 items
+C:\Program Files\Java\jdk1.8.0_141\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Shanil\.ivy2\cache\com.typesafe\config\bundles\config-1.3.2.jar -> com.typesafe.config.ConfigFactory
+C:\Users\Shanil\.ivy2\cache\org.apache.hadoop\hadoop-common\jars\hadoop-common-2.2.0.jar -> org.apache.hadoop.fs.FileSystem
+C:\Users\Shanil\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.6.2.jar -> org.apache.spark.SparkConf$
+C:\Users\Shanil\.ivy2\cache\org.apache.spark\spark-hive_2.10\jars\spark-hive_2.10-1.6.2.jar -> org.apache.spark.sql.hive.HiveContext
+C:\Users\Shanil\.ivy2\cache\org.apache.spark\spark-sql_2.10\jars\spark-sql_2.10-1.6.2.jar -> org.apache.spark.sql.DataFrame
+C:\Users\Shanil\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.5.jar -> scala.Array
+C:\Users\Shanil\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.10.5.jar -> scala.reflect.api.TypeCreator
+internal apis:
+7 items
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwGccJQwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAoc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw8oHgiXQABm5vdGlmeXNxAH4ADIPxKv50AAR3YWl0c3EAfgAMRdCVj3QADmNvcHkkZGVmYXVsdCQyc3EAfgAMc+Kxh3QADSRhc0luc3RhbmNlT2ZzcQB+AAzG5w84dAAOY29weSRkZWZhdWx0JDVzcQB+AAxog/aXdAAMcHJvZHVjdEFyaXR5c3EAfgAMq3BQ/HQABmVxdWFsc3NxAH4ADOJd5yZ0AA1vcmRlcl9pdGVtX2lkc3EAfgAMx3YeznQAC09yZGVyX2l0ZW1zc3EAfgAMIjn0IHQADGFzSW5zdGFuY2VPZnNxAH4ADP+Zuel0AAxzeW5jaHJvbml6ZWRzcQB+AAxMyIRfdAANJGlzSW5zdGFuY2VPZnNxAH4ADNrwfsF0AAhjYW5FcXVhbHNxAH4ADINzVdV0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADE6jsbF0AA1wcm9kdWN0UHJlZml4c3EAfgAMJUjS/3QACW5vdGlmeUFsbHNxAH4ADJkbmBx0ABVvcmRlcl9pdGVtX3Byb2R1Y3RfaWRzcQB+AAzOCg05dAAMaXNJbnN0YW5jZU9mc3EAfgAMh9+n/HQAE29yZGVyX2l0ZW1fb3JkZXJfaWRzcQB+AAzKP8fldAAQb3JkZXJfaXRlbV9wcmljZXNxAH4ADJ2qOcx0AAY8aW5pdD5zcQB+AAxCFcA6dAACPT1zcQB+AAyK8w7EdAAFY2xvbmVzcQB+AAx5QCqSdAAGJGluaXQkc3EAfgAMRK/7aHQADmNvcHkkZGVmYXVsdCQzc3EAfgAMptGRvHQABGNvcHlzcQB+AAwW8wt6dAAIdG9TdHJpbmdzcQB+AAwO23zJdAACIT1zcQB+AAw3+LoddAATb3JkZXJfaXRlbV9zdWJ0b3RhbHNxAH4ADKL4X+N0AAhnZXRDbGFzc3NxAH4ADBCEAkB0ABNvcmRlcl9pdGVtX3F1YW50aXR5c3EAfgAMk+dKtnQADmNvcHkkZGVmYXVsdCQxc3EAfgAMDBP0B3QADmNvcHkkZGVmYXVsdCQ2c3EAfgAM5LW+9XQAAm5lc3EAfgAMHLwel3QAAmVxc3EAfgAMWlgcrXQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADOnhfGx0AAIjI3NxAH4ADPrGMsB0AAhmaW5hbGl6ZXNxAH4ADGdW7590AA5wcm9kdWN0RWxlbWVudHNxAH4ADERIUfh0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABZEYXRhRnJhbWVzLk9yZGVyX2l0ZW1zdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AH9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AZ0wACWluaGVyaXRlZHEAfgBnTAAHcGFyZW50c3EAfgBneHEAfgCEc3EAfgB/dXEAfgBiAAAAAHNxAH4Af3VxAH4AYgAAAABzcQB+AH91cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIN0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AINzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJ1zcQB+AJBxAH4Ak3NxAH4AlHNxAH4Al3VxAH4AmgAAAANzcQB+AJx0AARqYXZhc3EAfgCcdAACaW9xAH4AoXNxAH4AkHQAB1Byb2R1Y3RxAH4AlnNxAH4AkHQABkVxdWFsc3EAfgCWc3EAfgCQdAAGT2JqZWN0c3EAfgCUc3EAfgCXdXEAfgCaAAAAA3NxAH4AnHEAfgCnc3EAfgCcdAAEbGFuZ3EAfgChc3EAfgCQdAADQW55cQB+AJZ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApEYXRhRnJhbWVzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFkeEpfp3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEtDOlxjeWd3aW42NFxob21lXFNoYW5pbFxJZGVhUHJvamVjdHNcU3BhcmtNYXkyMDE4XHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQ9nrvUPRB2kGvCd1JHZdn6tP9LwQ==
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwlVgRcwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAkc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwFD7DCXQABm5vdGlmeXNxAH4ADMK9eVl0AAhvcmRlcl9pZHNxAH4ADFPQSCV0AAR3YWl0c3EAfgAMyUG6UXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMhfiZ4HQADSRhc0luc3RhbmNlT2ZzcQB+AAwM9PDQdAAMcHJvZHVjdEFyaXR5c3EAfgAMWZrb9HQABmVxdWFsc3NxAH4ADMd/Bj90AAxhc0luc3RhbmNlT2ZzcQB+AAz1XsS+dAARb3JkZXJfY3VzdG9tZXJfaWRzcQB+AAyIc+J/dAAMc3luY2hyb25pemVkc3EAfgAMPOzo+HQADSRpc0luc3RhbmNlT2ZzcQB+AAxQsqcDdAAIY2FuRXF1YWxzcQB+AAyjjo0qdAAOY29weSRkZWZhdWx0JDRzcQB+AAxr3e3MdAANcHJvZHVjdFByZWZpeHNxAH4ADKh6SGJ0AAlub3RpZnlBbGxzcQB+AAxwx2yRdAAMaXNJbnN0YW5jZU9mc3EAfgAMYIJNtHQABjxpbml0PnNxAH4ADGS9r7F0AAxvcmRlcl9zdGF0dXNzcQB+AAxUGccCdAACPT1zcQB+AAy8mwysdAAKb3JkZXJfZGF0ZXNxAH4ADG2cYd50AAVjbG9uZXNxAH4ADIAWJld0AAYkaW5pdCRzcQB+AAy8uE5NdAAOY29weSRkZWZhdWx0JDNzcQB+AAy8IAKgdAAEY29weXNxAH4ADOChZGt0AAh0b1N0cmluZ3NxAH4ADNnVupF0AAIhPXNxAH4ADH3kZ1B0AAZPcmRlcnNzcQB+AAy3lAp9dAAIZ2V0Q2xhc3NzcQB+AAwmgaY9dAAOY29weSRkZWZhdWx0JDFzcQB+AAybRjIAdAACbmVzcQB+AAyNURvsdAACZXFzcQB+AAyEDF0LdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMbEIyyHQAAiMjc3EAfgAMvDu6VHQACGZpbmFsaXplc3EAfgAMc0Y/9nQADnByb2R1Y3RFbGVtZW50c3EAfgAMgr7YBXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AX3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAEURhdGFGcmFtZXMuT3JkZXJzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHdzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AX0wACWluaGVyaXRlZHEAfgBfTAAHcGFyZW50c3EAfgBfeHEAfgB8c3EAfgB3dXEAfgBaAAAAAHNxAH4Ad3VxAH4AWgAAAABzcQB+AHd1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHt0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHtzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJVzcQB+AIhxAH4Ai3NxAH4AjHNxAH4Aj3VxAH4AkgAAAANzcQB+AJR0AARqYXZhc3EAfgCUdAACaW9xAH4AmXNxAH4AiHQAB1Byb2R1Y3RxAH4AjnNxAH4AiHQABkVxdWFsc3EAfgCOc3EAfgCIdAAGT2JqZWN0c3EAfgCMc3EAfgCPdXEAfgCSAAAAA3NxAH4AlHEAfgCfc3EAfgCUdAAEbGFuZ3EAfgCZc3EAfgCIdAADQW55cQB+AI51cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApEYXRhRnJhbWVzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFkeEpfp3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEtDOlxjeWd3aW42NFxob21lXFNoYW5pbFxJZGVhUHJvamVjdHNcU3BhcmtNYXkyMDE4XHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTmyC9FpMw2dnz8hhab+k3WhbQ/3Q==
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TopNProducts.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwIFOTmwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAUc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwij2dPXQABm5vdGlmeXNxAH4ADFAocg90AAR3YWl0c3EAfgAM7mY8sXQADSRhc0luc3RhbmNlT2ZzcQB+AAz4aJW8dAAMVG9wTlByb2R1Y3Rzc3EAfgAMVNpYUnQABmVxdWFsc3NxAH4ADOYw9nt0AAxhc0luc3RhbmNlT2ZzcQB+AAyyCji8dAAMc3luY2hyb25pemVkc3EAfgAMOqr7HHQADSRpc0luc3RhbmNlT2ZzcQB+AAz8hVS+dAAJbm90aWZ5QWxsc3EAfgAMukqfn3QADGlzSW5zdGFuY2VPZnNxAH4ADAofzeZ0AAI9PXNxAH4ADCEnx/t0AAVjbG9uZXNxAH4ADFnehVJ0AAh0b1N0cmluZ3NxAH4ADOnDfx10AAIhPXNxAH4ADEv7XaF0AAhnZXRDbGFzc3NxAH4ADJYuUrV0AAJuZXNxAH4ADFPbT9l0AAJlcXNxAH4ADHcvBKp0AAIjI3NxAH4ADFl0FA50AAhmaW5hbGl6ZXNxAH4ADOaYxiR0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AD94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABdEYXRhRnJhbWVzLlRvcE5Qcm9kdWN0c3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AV3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgA/TAAJaW5oZXJpdGVkcQB+AD9MAAdwYXJlbnRzcQB+AD94cQB+AFxzcQB+AFd1cQB+ADoAAAAAc3EAfgBXdXEAfgA6AAAAAHNxAH4AV3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AW3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AW3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AdHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AdXNxAH4AaHQAA0FueXNxAH4AbHNxAH4Ab3VxAH4AcgAAAAJzcQB+AHR0AAVzY2FsYXEAfgB7dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKRGF0YUZyYW1lc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZKY5gKV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABLQzpcY3lnd2luNjRcaG9tZVxTaGFuaWxcSWRlYVByb2plY3RzXFNwYXJrTWF5MjAxOFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUYsnRJcWYOw+kPxXuv57wFdMfmv0=
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwOYsgQwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwWJF6anQABm5vdGlmeXNxAH4ADJmHYSV0AAR3YWl0c3EAfgAMzq+WkXQADSRhc0luc3RhbmNlT2ZzcQB+AAzZvOG/dAAGZXF1YWxzc3EAfgAMjZH7LXQADGFzSW5zdGFuY2VPZnNxAH4ADITMRD10AAxzeW5jaHJvbml6ZWRzcQB+AAzExf3NdAANJGlzSW5zdGFuY2VPZnNxAH4ADP/wVxF0AARtYWluc3EAfgAMPNE253QACW5vdGlmeUFsbHNxAH4ADDASZPh0AAxpc0luc3RhbmNlT2ZzcQB+AAzGW4IZdAAMVG90YWxSZXZlbnVlc3EAfgAMcMzY3nQAAj09c3EAfgAM47hxlXQABWNsb25lc3EAfgAMBV3L2HQACHRvU3RyaW5nc3EAfgAMzIiz1HQAAiE9c3EAfgAMK2zjM3QACGdldENsYXNzc3EAfgAMNNFrcHQAAm5lc3EAfgAMGuRslnQAAmVxc3EAfgAM1jcmFXQAAiMjc3EAfgAMS7oawnQACGZpbmFsaXplc3EAfgAM/0cuCnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAF0RhdGFGcmFtZXMuVG90YWxSZXZlbnVldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACkRhdGFGcmFtZXNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWR9Fv0HdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAS0M6XGN5Z3dpbjY0XGhvbWVcU2hhbmlsXElkZWFQcm9qZWN0c1xTcGFya01heTIwMThcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFDB346/dI8/Z142O/G/ZkZSz1ezC
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwL+aDDQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw8eZk+HQABm5vdGlmeXNxAH4ADCaaEh50AAR3YWl0c3EAfgAMsN5OcHQADSRhc0luc3RhbmNlT2ZzcQB+AAy6VbQXdAAGZXF1YWxzc3EAfgAMvPM3KnQADGFzSW5zdGFuY2VPZnNxAH4ADMqgxC10AAxzeW5jaHJvbml6ZWRzcQB+AAzry+7tdAANJGlzSW5zdGFuY2VPZnNxAH4ADG9SXM10AARtYWluc3EAfgAM032YP3QACW5vdGlmeUFsbHNxAH4ADA7U/k10AAxpc0luc3RhbmNlT2ZzcQB+AAwZMcfrdAATVG90UmV2ZW51ZURGU3Bya1NxbHNxAH4ADMaaXSF0AAI9PXNxAH4ADO+tQXp0AAVjbG9uZXNxAH4ADCvw4Kx0AAh0b1N0cmluZ3NxAH4ADLlO1Th0AAIhPXNxAH4ADNJ5lfN0AAhnZXRDbGFzc3NxAH4ADAaVctd0AAJuZXNxAH4ADDIr5Vl0AAJlcXNxAH4ADBbeowB0AAIjI3NxAH4ADFbCJ410AAhmaW5hbGl6ZXNxAH4ADNAAfWF0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AB5EYXRhRnJhbWVzLlRvdFJldmVudWVERlNwcmtTcWx1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBec3EAfgBZdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAddXEAfgBRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF10AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBdc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB5dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AbVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXXNxAH4AbHQABUFycmF5cQB+AHJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AbHQABlN0cmluZ3NxAH4AcHNxAH4Ac3VxAH4AdgAAAANzcQB+AHh0AARqYXZhc3EAfgB4dAAEbGFuZ3EAfgB9c3EAfgBZdXEAfgA8AAAAAHNxAH4AWXVxAH4AkQAAAAJzcQB+AGx0AAZPYmplY3RxAH4AlXNxAH4AbHQAA0FueXEAfgBydXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKRGF0YUZyYW1lc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZH0W/Qd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABLQzpcY3lnd2luNjRcaG9tZVxTaGFuaWxcSWRlYVByb2plY3RzXFNwYXJrTWF5MjAxOFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUxlQ/nmTSokbnjNDzagGHpi7W9s0=
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwwhJmZgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwfRU0Z3QABm5vdGlmeXNxAH4ADHXhQ+R0AAR3YWl0c3EAfgAMo2+B/HQADSRhc0luc3RhbmNlT2ZzcQB+AAwxDslxdAAGZXF1YWxzc3EAfgAMXMdT7XQADGFzSW5zdGFuY2VPZnNxAH4ADCaV7eF0AAxzeW5jaHJvbml6ZWRzcQB+AAzEg+uSdAANJGlzSW5zdGFuY2VPZnNxAH4ADJC2+v10AARtYWluc3EAfgAMl9muQXQACW5vdGlmeUFsbHNxAH4ADFJSuS90AAxpc0luc3RhbmNlT2ZzcQB+AAwBPvENdAACPT1zcQB+AAyPkOpodAAFY2xvbmVzcQB+AAw80S58dAAIdG9TdHJpbmdzcQB+AAw19BdXdAACIT1zcQB+AAw5/ePwdAAIZ2V0Q2xhc3NzcQB+AAxfodskdAACbmVzcQB+AAzrXZ7hdAACZXFzcQB+AAyQ1AkmdAACIyNzcQB+AAxwNDKidAAIZmluYWxpemVzcQB+AAwaYIljdAAIaGFzaENvZGVzcQB+AAyWrzxwdAATVG90UmV2UGVyUHJvZFBlckRheXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AB5EYXRhRnJhbWVzLlRvdFJldlBlclByb2RQZXJEYXl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBec3EAfgBZdXEAfgA8AAAAAHNxAH4AWXVxAH4APAAAAABzcQB+AFl1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF10AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHZ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHdzcQB+AGp0AANBbnlzcQB+AG5zcQB+AHF1cQB+AHQAAAACc3EAfgB2dAAFc2NhbGFxAH4AfXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACkRhdGFGcmFtZXNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWSmaXfgdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAS0M6XGN5Z3dpbjY0XGhvbWVcU2hhbmlsXElkZWFQcm9qZWN0c1xTcGFya01heTIwMThcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFCXCZwtg3GciI968iBDnwqG76rBL
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwyMyE1QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwKUZlY3QABm5vdGlmeXNxAH4ADBP8cU10AAR3YWl0c3EAfgAMicxKCHQADSRhc0luc3RhbmNlT2ZzcQB+AAz1ghS9dAAGZXF1YWxzc3EAfgAMY6QAYHQADGFzSW5zdGFuY2VPZnNxAH4ADKgqVSh0AAxzeW5jaHJvbml6ZWRzcQB+AAz8abr6dAANJGlzSW5zdGFuY2VPZnNxAH4ADOgMAMl0AARtYWluc3EAfgAMJiszqnQACW5vdGlmeUFsbHNxAH4ADG5Q1Ll0AAxpc0luc3RhbmNlT2ZzcQB+AAx0X231dAACPT1zcQB+AAw9kOj0dAAFY2xvbmVzcQB+AAxKeZa2dAAIdG9TdHJpbmdzcQB+AAzBYKlndAACIT1zcQB+AAyrfpPgdAAIZ2V0Q2xhc3NzcQB+AAzKlZwedAACV0NzcQB+AAwsLNtodAACbmVzcQB+AAwlBkxadAACZXFzcQB+AAzR612xdAACIyNzcQB+AAxNGTXBdAAIZmluYWxpemVzcQB+AAyEzeK2dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAMU3BhcmtEZW1vLldDdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACVNwYXJrRGVtb3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZHhKX6d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABLQzpcY3lnd2luNjRcaG9tZVxTaGFuaWxcSWRlYVByb2plY3RzXFNwYXJrTWF5MjAxOFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUaQugXchigxVjbU/rOGn4vjIdE/Q=
+external apis:
+0 items
+source infos:
+7 items
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Order_items.scala -> 
+AAAAAAAAAAA=
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\Orders.scala -> 
+AAAAAAAAAAA=
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TopNProducts.scala -> 
+AAAAAAAAAAA=
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotalRevenue.scala -> 
+AAAAAAAAAAA=
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevenueDFSprkSql.scala -> 
+AAAAAAAAAAA=
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\DataFrames\TotRevPerProdPerDay.scala -> 
+AAAAAQAAAQAAAAcAHG9iamVjdCBUb3RSZXZQZXJQcm9kUGVyRGF5IHsBAAAAqQEAAAAHAQAHICAgICAgIAEAZUM6XGN5Z3dpbjY0XGhvbWVcU2hhbmlsXElkZWFQcm9qZWN0c1xTcGFya01heTIwMThcc3JjXG1haW5cc2NhbGFcRGF0YUZyYW1lc1xUb3RSZXZQZXJQcm9kUGVyRGF5LnNjYWxhAQBlQzpcY3lnd2luNjRcaG9tZVxTaGFuaWxcSWRlYVByb2plY3RzXFNwYXJrTWF5MjAxOFxzcmNcbWFpblxzY2FsYVxEYXRhRnJhbWVzXFRvdFJldlBlclByb2RQZXJEYXkuc2NhbGEAz1RvdFJldlBlclByb2RQZXJEYXkgaGFzIGEgbWFpbiBtZXRob2Qgd2l0aCBwYXJhbWV0ZXIgdHlwZSBBcnJheVtTdHJpbmddLCBidXQgRGF0YUZyYW1lcy5Ub3RSZXZQZXJQcm9kUGVyRGF5IHdpbGwgbm90IGJlIGEgcnVubmFibGUgcHJvZ3JhbS4KICBSZWFzb246IG1haW4gbWV0aG9kIG11c3QgaGF2ZSBleGFjdCBzaWduYXR1cmUgKEFycmF5W1N0cmluZ10pVW5pdAEAAAAA
+C:\cygwin64\home\Shanil\IdeaProjects\SparkMay2018\src\main\scala\SparkDemo\WC.scala -> 
+AAAAAAAAAAA=
+compilations:
+16 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABY+gTt+91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAS0M6XGN5Z3dpbjY0XGhvbWVcU2hhbmlsXElkZWFQcm9qZWN0c1xTcGFya01heTIwMThcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABY+zllfh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAS0M6XGN5Z3dpbjY0XGhvbWVcU2hhbmlsXElkZWFQcm9qZWN0c1xTcGFya01heTIwMThcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABY+ztxr91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAS0M6XGN5Z3dpbjY0XGhvbWVcU2hhbmlsXElkZWFQcm9qZWN0c1xTcGFya01heTIwMThcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABY+0Ftat1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAS0M6XGN5Z3dpbjY0XGhvbWVcU2hhbmlsXElkZWFQcm9qZWN0c1xTcGFya01heTIwMThcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZC+eMbp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAS0M6XGN5Z3dpbjY0XGhvbWVcU2hhbmlsXElkZWFQcm9qZWN0c1xTcGFya01heTIwMThcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZHfs3wp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAS0M6XGN5Z3dpbjY0XGhvbWVcU2hhbmlsXElkZWFQcm9qZWN0c1xTcGFya01heTIwMThcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZHhKX6d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAS0M6XGN5Z3dpbjY0XGhvbWVcU2hhbmlsXElkZWFQcm9qZWN0c1xTcGFya01heTIwMThcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZHhX/LB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAS0M6XGN5Z3dpbjY0XGhvbWVcU2hhbmlsXElkZWFQcm9qZWN0c1xTcGFya01heTIwMThcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZH0F44x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAS0M6XGN5Z3dpbjY0XGhvbWVcU2hhbmlsXElkZWFQcm9qZWN0c1xTcGFya01heTIwMThcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZH0W/Qd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAS0M6XGN5Z3dpbjY0XGhvbWVcU2hhbmlsXElkZWFQcm9qZWN0c1xTcGFya01heTIwMThcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZKY5gKV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAS0M6XGN5Z3dpbjY0XGhvbWVcU2hhbmlsXElkZWFQcm9qZWN0c1xTcGFya01heTIwMThcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZKY/IaN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAS0M6XGN5Z3dpbjY0XGhvbWVcU2hhbmlsXElkZWFQcm9qZWN0c1xTcGFya01heTIwMThcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZKZf5VV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAS0M6XGN5Z3dpbjY0XGhvbWVcU2hhbmlsXElkZWFQcm9qZWN0c1xTcGFya01heTIwMThcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZKZi+Xh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAS0M6XGN5Z3dpbjY0XGhvbWVcU2hhbmlsXElkZWFQcm9qZWN0c1xTcGFya01heTIwMThcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZKZl5z91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAS0M6XGN5Z3dpbjY0XGhvbWVcU2hhbmlsXElkZWFQcm9qZWN0c1xTcGFya01heTIwMThcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZKZpd+B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAS0M6XGN5Z3dpbjY0XGhvbWVcU2hhbmlsXElkZWFQcm9qZWN0c1xTcGFya01heTIwMThcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
