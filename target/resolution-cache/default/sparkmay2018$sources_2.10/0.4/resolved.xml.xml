@@ -4,7 +4,7 @@
 		module="sparkmay2018$sources_2.10"
 		revision="0.4"
 		status="integration"
-		publication="20180721232628"
+		publication="20180725220620"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
